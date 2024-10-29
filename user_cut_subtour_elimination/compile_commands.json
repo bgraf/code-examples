@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/run_ortools -I/home/tane/playground/cpp/run_ortools/../or-tools_x86_64_Ubuntu-24.04_cpp_v9.11.4210/include -g -std=gnu++20 -o CMakeFiles/run.dir/test.cc.o -c /home/tane/playground/cpp/run_ortools/test.cc",
+  "file": "/home/tane/playground/cpp/run_ortools/test.cc",
+  "output": "CMakeFiles/run.dir/test.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/arg_parser.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/arg_parser.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/arg_parser.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/arg_parser.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/base.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/base.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/base.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/base.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/color.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/color.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/color.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/color.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/lp_base.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/lp_base.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/lp_base.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/lp_base.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/lp_skeleton.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/lp_skeleton.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/lp_skeleton.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/lp_skeleton.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/random.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/random.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/random.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/random.cc.o"
+},
+{
+  "directory": "/home/tane/playground/cpp/run_ortools/build2/build_lemon/lemon",
+  "command": "/usr/bin/clang++  -I/home/tane/playground/cpp/lemon-1.3.1 -I/home/tane/playground/cpp/run_ortools/build2/build_lemon  -Wall -g -std=gnu++14 -o CMakeFiles/lemon.dir/bits/windows.cc.o -c /home/tane/playground/cpp/lemon-1.3.1/lemon/bits/windows.cc",
+  "file": "/home/tane/playground/cpp/lemon-1.3.1/lemon/bits/windows.cc",
+  "output": "build_lemon/lemon/CMakeFiles/lemon.dir/bits/windows.cc.o"
+}
+]
