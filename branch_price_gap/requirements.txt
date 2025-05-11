@@ -1,0 +1,2 @@
+numpy==2.2.5
+PySCIPOpt==5.5.0
